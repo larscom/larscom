@@ -1,16 +1,14 @@
-### Hi there 👋
+[![Lars's GitHub stats](https://github-readme-stats.vercel.app/api?username=larscom&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**larscom/larscom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Angular Libraries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [ngrx-store-storagesync](https://github.com/larscom/ngrx-store-storagesync) - @ngrx/store plugin to sync state to localstorage/sessionstorage.
+ - [ngrx-store-formsync](https://github.com/larscom/ngrx-store-formsync) -  @ngrx/store plugin to easily sync reactive forms to the store.
+ - [ngx-translate-module-loader](https://github.com/larscom/ngx-translate-module-loader) - @ngx-translate/core plugin to easily seperate language files as modules.
+
+
+## Tools
+
+ - [ng-chrome-extension](https://github.com/larscom/ng-chrome-extension) - CLI tool to generate Angular Chrome Extensions.
+ - [xbox360-controller-manager](https://github.com/larscom/xbox360-controller-manager) - Turn OFF wireless xbox 360 controllers on PC and see the battery status.
