@@ -1,4 +1,4 @@
-[![Lars's GitHub stats](https://github-readme-stats.vercel.app/api?username=larscom&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Lars's GitHub stats](https://github-readme-stats.vercel.app/api?username=larscom&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Angular Libraries
