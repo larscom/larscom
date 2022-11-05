@@ -6,7 +6,7 @@
  - [ngx-translate-module-loader](https://github.com/larscom/ngx-translate-module-loader) - @ngx-translate/core plugin to easily seperate language files as modules.
  - [ngrx-store-storagesync](https://github.com/larscom/ngrx-store-storagesync) - @ngrx/store plugin to sync state to localstorage/sessionstorage.
  - [ngrx-store-formsync](https://github.com/larscom/ngrx-store-formsync) -  @ngrx/store plugin to easily sync reactive forms to the store.
- - [ng-qrcode-svg](https://github.com/larscom/ng-qrcode-svg) -  Simple and powerful QR code generator (SVG only) for Angular.
+ - [ng-qrcode-svg](https://github.com/larscom/ng-qrcode-svg) -  Simple QR code generator (SVG only) for Angular.
 
 
 
