@@ -10,6 +10,6 @@
 
 
 ## Tools
- - [time-based-otp](https://github.com/larscom/timed-based-otp) - Create, search and backup/restore TOTP accounts via an easy to use web interface.
+ - [gitlab-ci-dashboard](https://github.com/larscom/gitlab-ci-dashboard) - A dashboard for Gitlab CI which gives you a global overview of pipelines and their statuses.
  - [ng-chrome-extension](https://github.com/larscom/ng-chrome-extension) - CLI tool to generate Angular Chrome Extensions.
  - [xbox360-controller-manager](https://github.com/larscom/xbox360-controller-manager) - Turn OFF wireless xbox 360 controllers on PC and see the battery status.
