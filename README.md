@@ -7,7 +7,8 @@
  - [ngrx-store-formsync](https://github.com/larscom/ngrx-store-formsync) -  @ngrx/store plugin to synchronize any reactive form to @ngrx/store.
  - [ng-qrcode-svg](https://github.com/larscom/ng-qrcode-svg) -  Simple QR code generator (SVG only)
 
-
+## Go Libraries
+ - [go-cache](https://github.com/larscom/go-cache) - Simple in-memory thread safe cache with loader and TTL
 
 ## Tools
  - [gitlab-ci-dashboard](https://github.com/larscom/gitlab-ci-dashboard) - A dashboard for Gitlab CI which gives you a global overview of pipelines and their statuses.
