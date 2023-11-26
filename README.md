@@ -8,6 +8,7 @@
  - [ng-qrcode-svg](https://github.com/larscom/ng-qrcode-svg) -  Simple QR code generator (SVG only)
 
 ## Go Libraries
+ - [go-bitvavo](https://github.com/larscom/go-bitvavo) - Thread safe client library for the Bitvavo platform
  - [go-cache](https://github.com/larscom/go-cache) - Simple in-memory thread safe cache with loader and TTL
 
 ## Tools
