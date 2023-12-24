@@ -6,6 +6,7 @@
  - [ngrx-store-storagesync](https://github.com/larscom/ngrx-store-storagesync) - @ngrx/store plugin to synchronize state to localstorage/sessionstorage.
  - [ngrx-store-formsync](https://github.com/larscom/ngrx-store-formsync) -  @ngrx/store plugin to synchronize any reactive form to @ngrx/store.
  - [ng-qrcode-svg](https://github.com/larscom/ng-qrcode-svg) -  Simple QR code generator (SVG only)
+ - [ngrx-signals-storage](https://github.com/larscom/ngrx-signals-storage) - @ngrx/signals plugin to save state to localstorage/sessionstorage and restore the state on page load.
 
 ## Go Libraries
  - [go-bitvavo](https://github.com/larscom/go-bitvavo) - Thread safe client library for the Bitvavo platform
