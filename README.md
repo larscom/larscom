@@ -10,7 +10,7 @@
 
 ## Go Libraries
  - [go-bitvavo](https://github.com/larscom/go-bitvavo) - Thread safe client library for the Bitvavo platform
- - [go-cache](https://github.com/larscom/go-cache) - Simple in-memory thread safe cache with loader and TTL
+ - [go-loading-cache](https://github.com/larscom/go-loading-cache) - Simple, high performance loading cache written in GO
 
 ## Tools
  - [gitlab-ci-dashboard](https://github.com/larscom/gitlab-ci-dashboard) - A dashboard for Gitlab CI which gives you a global overview of pipelines and their statuses.
