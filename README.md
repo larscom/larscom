@@ -9,7 +9,7 @@
  - [ngrx-signals-storage](https://github.com/larscom/ngrx-signals-storage) - @ngrx/signals plugin to save state to localstorage/sessionstorage and restore the state on page load.
 
 ## Go Libraries
- - [go-bitvavo](https://github.com/larscom/go-bitvavo) - Thread safe client library for the Bitvavo platform.
+ - [bitvavo-go](https://github.com/larscom/bitvavo-go) - Thread safe client library for the Bitvavo platform.
  - [go-cache](https://github.com/larscom/go-cache) - High performance, simple generic cache written in GO, including a loading cache.
 
 ## Tools
