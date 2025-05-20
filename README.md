@@ -13,6 +13,9 @@
  - [bitvavo-go](https://github.com/larscom/bitvavo-go) - Thread safe client library for the Bitvavo platform.
  - [go-cache](https://github.com/larscom/go-cache) - High performance, simple generic cache written in GO, including a loading cache.
 
+## Java Libraries
+ - [bitvavo-java](https://github.com/larscom/bitvavo-java) - Java library to interact with the Bitvavo platform.
+ 
 ## Tools
  - [gitlab-ci-dashboard](https://github.com/larscom/gitlab-ci-dashboard) - A dashboard for Gitlab CI which gives you a global overview of pipelines and their statuses.
  - [ng-chrome-extension](https://github.com/larscom/ng-chrome-extension) - CLI tool to generate Angular Chrome Extensions.
