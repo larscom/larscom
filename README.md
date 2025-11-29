@@ -1,5 +1,7 @@
 [![Lars's GitHub stats](https://github-readme-stats.vercel.app/api?username=larscom&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larscom)](https://github.com/anuraghazra/github-readme-stats)
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/larscom)
 
 ## Angular Libraries
